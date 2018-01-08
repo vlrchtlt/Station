@@ -10,5 +10,6 @@ get '/'  do
   results = respons[results].inspect
   #lgn = respons[geometry][location][lgn]
   #p lat
+  #blabla
 
 end
